@@ -8,7 +8,7 @@ The right plugings, android version and graddles will be dowloaded as soon as An
 You also need an emulator, you can choose any device you'd like within android studio. This was built with a screen similar to the PIXEL 3 in mind.
 
 # Run
-Go to the following path AgeinMinutes_Calculator/app/src/main/java/com/dobcalculator Using the instructions from above, make sure everything has been imported and dowloaded correctl and press the play button located on the upper right corner of Android Studio.
+Go to the following path AgeinMinutes_Calculator/app/src/main/java/com/dobcalculator/MainActivity.kt Using the instructions from above, make sure everything has been imported and dowloaded correctl and press the play button located on the upper right corner of Android Studio.
 
 This will open the virtual device and emulate the app running. 
 Click on the SELECT DATE button to pick a date and then you will automatically see it in minutes.
